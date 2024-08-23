@@ -1,30 +1,47 @@
 Course 1: Python Basics
 
 Module 1: Introduction to Python
-
 What is Python?
 Why Python?
 
 Module 2: Basic Python Syntax
-
 Variables and data types (integers, floats, strings, booleans)
 Input and output in Python (input(), print())
 
 Module 3: Control Flow
-
 Conditional statements (if, else)
 Loops (for)
 Basic list operations (indexing, iterating)
 Try-except blocks
 
 Module 4: Functions
-
 Defining and calling functions
 Function arguments and return values
 
 Module 5: Basic Data Structures
-
 Lists (creation, manipulation, common methods)
 Tuples and sets (differences and use cases)
 Dictionaries (key-value pairs, common methods)
 
+-----------------------------------------------------------------------------------------------------------
+Course 2: Data Manipulation & Python Libraries
+
+Module 1: Introduction to Libraries
+Understanding libraries and modules in Python
+Installing libraries using pip
+
+Module 2: Numpy for Numerical Data
+Introduction to Numpy arrays
+Basic operations on Numpy arrays (arithmetic, statistical functions)
+Reshaping and slicing Numpy arrays
+
+Module 3: Pandas for Data Manipulation
+Introduction to Pandas Series and DataFrames
+Importing and exporting data (CSV, Excel)
+Basic data operations (sorting, filtering, grouping)
+Handling missing data
+
+Module 4: Matplotlib for Data Visualization
+Introduction to Matplotlib
+Plotting basic graphs (line, bar, histogram)
+Customizing plots (labels, titles, legends)
