@@ -60,3 +60,6 @@ value = my_dict["int"]
 #print(value[0])
 
 # data type | data structure | iterable through loop
+
+# 9. set
+my_set = {my_int, my_float, my_complex, my_bool, my_str}
