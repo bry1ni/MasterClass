@@ -3,20 +3,17 @@ Course 1: Python Basics
 Module 1: Introduction to Python
 
 What is Python?
-Why Python? (Versatility, readability, community support)
-Setting up Python environment (Installation and IDEs: VSCode, Jupyter Notebook)
-Writing and running your first Python script ("Hello, World!")
+Why Python?
 
 Module 2: Basic Python Syntax
 
 Variables and data types (integers, floats, strings, booleans)
-Basic operations (Arithmetic, comparison, logical)
 Input and output in Python (input(), print())
 
 Module 3: Control Flow
 
-Conditional statements (if, elif, else)
-Loops (for, while)
+Conditional statements (if, else)
+Loops (for)
 Basic list operations (indexing, iterating)
 Try-except blocks
 
@@ -24,7 +21,6 @@ Module 4: Functions
 
 Defining and calling functions
 Function arguments and return values
-Scope and lifetime of variables
 
 Module 5: Basic Data Structures
 
