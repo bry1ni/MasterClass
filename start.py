@@ -63,3 +63,32 @@ value = my_dict["int"]
 
 # 9. set
 my_set = {my_int, my_float, my_complex, my_bool, my_str}
+
+# Functions
+def my_function():
+    print("Hello, World!")
+
+my_function()
+
+# def my_function_with_args(arg1, arg2):
+#     print(arg1, arg2)
+
+# my_function_with_args("Hello", "World!")
+
+# def my_function_with_return(arg1, arg2):
+#     return arg1 + arg2
+
+# result = my_function_with_return(10, 20)
+# #print(result)
+
+# def my_function_with_default_args(arg1, arg2=10):
+#     return arg1 + arg2
+
+# result = my_function_with_default_args(10)
+# #print(result)
+
+# def my_function_with_args_kwargs(*args, **kwargs):
+#     print(args)
+#     print(kwargs)
+
+# my_function_with_args_kwargs(10, 20, 30, 40, 50, name="John", age=20)
