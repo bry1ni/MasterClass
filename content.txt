@@ -45,3 +45,10 @@ Module 4: Matplotlib for Data Visualization
 Introduction to Matplotlib
 Plotting basic graphs (line, bar, histogram)
 Customizing plots (labels, titles, legends)
+
+Task:
+Dataset : https://www.kaggle.com/datasets/mikhail1681/walmart-sales
+- Load the data into DataFrame 
+- Clean the data (get rid of missing values if any)
+- Analyse the data (Calculate avg. )
+- Visulaize the results

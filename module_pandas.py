@@ -14,6 +14,7 @@ data = {'Name': ['Alice', 'Bob', 'Charlie', 'David', 'Eva'],
 df = pd.DataFrame(data)
 print("DataFrame:\n", df)
 
+<<<<<<< Updated upstream
 df.to_csv('output.csv', index=False)
 
 # Importing and Exporting Data
@@ -22,6 +23,15 @@ df.to_csv('output.csv', index=False)
 
 # # Exporting to an Excel file
 # df.to_excel('output.xlsx', index=False)
+=======
+# Exporting to an Excel file
+df.to_csv('example.csv', index=False)
+
+# Importing and Exporting Data
+# Importing from a CSV file
+df_imported = pd.read_csv('example.csv')
+print("Imported DataFrame:\n", df_imported)
+>>>>>>> Stashed changes
 
 # # Basic Data Operations
 # # Sorting data by age
