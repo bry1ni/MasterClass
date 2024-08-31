@@ -52,3 +52,26 @@ Dataset : https://www.kaggle.com/datasets/mikhail1681/walmart-sales
 - Clean the data (get rid of missing values if any)
 - Analyse the data (Calculate avg. )
 - Visulaize the results
+
+--------------------------------------------------------------------------------------
+Course 3: Computer Vision 1
+
+Module 1: Introduction to Computer Vision
+What is Computer Vision?
+Use cases of Computer Vision (image classification, object detection, etc.)
+Overview of popular Computer Vision libraries (OpenCV, PIL)
+
+Module 2: Working with Images
+Loading and displaying images using OpenCV
+Basic image operations (resizing, cropping, rotating)
+Understanding image channels (grayscale, RGB)
+
+Module 3: Image Processing Techniques
+Applying filters (blurring, sharpening)
+Edge detection using Canny
+Image thresholding (binary, adaptive)
+
+Module 4: Contours and Shape Detection
+Finding and drawing contours
+Approximating contours and detecting shapes
+Bounding boxes and minimum enclosing shapes
