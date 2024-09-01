@@ -9,7 +9,7 @@ import numpy as np
 # Reading and Displaying Images
 image = cv2.imread('src/computer_vision/image.jpg')
 cv2.imshow('Image', image)
-cv2.waitKey(0)
+cv2.waitKey(0) # 0 for infinite delay, 1000 for 1 second delay
 cv2.destroyAllWindows()
 
 # # Reading and Displaying Videos
@@ -35,14 +35,14 @@ cv2.destroyAllWindows()
 # cv2.destroyAllWindows()
 
 # # Image Processing
-# gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-# blurred_image = cv2.GaussianBlur(image, (5, 5), 5)
-# canny_edges = cv2.Canny(image, 100, 200)
-# cv2.imshow('Gray Image', gray_image)
-# cv2.imshow('Blurred Image', blurred_image)
-# cv2.imshow('Canny Edges', canny_edges)
-# cv2.waitKey(0)
-# cv2.destroyAllWindows()
+gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+blurred_image = cv2.GaussianBlur(image, (5, 5), 5)
+canny_edges = cv2.Canny(image, 100, 200)
+cv2.imshow('Gray Image', gray_image)
+cv2.imshow('Blurred Image', blurred_image)
+cv2.imshow('Canny Edges', canny_edges)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
 
 # # Image Transformation
 # rows, cols, _ = image.shape
